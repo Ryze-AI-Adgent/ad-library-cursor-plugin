@@ -1,0 +1,32 @@
+{
+  "name": "ad-library-by-ryze",
+  "displayName": "Ad Library by Ryze",
+  "version": "1.0.0",
+  "description": "Search the public Meta Ad Library for any advertiser's Facebook and Instagram ads, ranked by how long they have been running, then manage your own Google Ads and Meta Ads accounts from the same Cursor chat.",
+  "author": {
+    "name": "Ryze AI",
+    "email": "hello@get-ryze.ai",
+    "url": "https://www.get-ryze.ai"
+  },
+  "homepage": "https://www.get-ryze.ai",
+  "repository": "https://github.com/Ryze-AI-Adgent/ad-library-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ad-library",
+    "meta-ad-library",
+    "facebook-ad-library",
+    "facebook-ads",
+    "instagram-ads",
+    "meta-ads",
+    "google-ads",
+    "competitor-research",
+    "ad-creatives",
+    "ad-spy",
+    "ppc",
+    "paid-ads",
+    "mcp",
+    "mcp-server"
+  ],
+  "logo": "logo.png",
+  "mcpServers": "./mcp.json"
+}
