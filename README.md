@@ -1,4 +1,4 @@
-# Ad Library by Ryze — Cursor Plugin
+# Meta Ad Library by Ryze AI — Cursor Plugin
 
 Research competitor ads from the public Meta Ad Library and manage your own Google Ads and Meta Ads accounts from Cursor.
 
@@ -6,7 +6,7 @@ Research competitor ads from the public Meta Ad Library and manage your own Goog
 
 **In Cursor:**
 
-[![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Ad%20Library%20by%20Ryze-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=ad-library-by-ryze&config=eyJ1cmwiOiAiaHR0cHM6Ly9hZGxpYnJhcnkuZ2V0LXJ5emUuYWkvbWNwIn0=)
+[![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Meta%20Ad%20Library%20by%20Ryze%20AI-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=meta-ad-library-by-ryze-ai&config=eyJ1cmwiOiAiaHR0cHM6Ly9hZGxpYnJhcnkuZ2V0LXJ5emUuYWkvbWNwIn0=)
 
 Or by hand: **Cursor › Settings › MCP › Add new MCP server**, type `http`, URL:
 
@@ -17,10 +17,10 @@ https://adlibrary.get-ryze.ai/mcp
 Or drop this into `.cursor/mcp.json` in your project (same content as [mcp.json](mcp.json)):
 
 ```json
-{ "mcpServers": { "ad-library-by-ryze": { "url": "https://adlibrary.get-ryze.ai/mcp" } } }
+{ "mcpServers": { "meta-ad-library-by-ryze-ai": { "url": "https://adlibrary.get-ryze.ai/mcp" } } }
 ```
 
-Cursor opens a browser tab: sign in to Ryze and allow access. No API keys. Also works in Claude Code: `claude mcp add ad-library --transport http https://adlibrary.get-ryze.ai/mcp`.
+Cursor opens a browser tab: sign in to Ryze and allow access. No API keys. Also works in Claude Code: `claude mcp add meta-ad-library --transport http https://adlibrary.get-ryze.ai/mcp`.
 
 ## What you can do
 
@@ -44,4 +44,4 @@ A Ryze AI account. Connecting accounts works before you start a plan. Ad Library
 - [Privacy policy](https://www.get-ryze.ai/privacy?utm_source=github&utm_content=ad-library-cursor-plugin)
 - Support: hello@get-ryze.ai
 
-Ad Library by Ryze is an independent product. It is not affiliated with or endorsed by Meta or Google.
+Meta Ad Library by Ryze AI is an independent product. It is not affiliated with or endorsed by Meta or Google.

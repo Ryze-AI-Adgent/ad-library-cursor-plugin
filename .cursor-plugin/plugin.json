@@ -1,6 +1,6 @@
 {
-  "name": "ad-library-by-ryze",
-  "displayName": "Ad Library by Ryze",
+  "name": "meta-ad-library-by-ryze-ai",
+  "displayName": "Meta Ad Library by Ryze AI",
   "version": "1.0.0",
   "description": "Search the public Meta Ad Library for any advertiser's Facebook and Instagram ads, ranked by how long they have been running, then manage your own Google Ads and Meta Ads accounts from the same Cursor chat.",
   "author": {
